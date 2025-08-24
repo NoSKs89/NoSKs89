@@ -1,16 +1,11 @@
 # Stephen | Full-Stack Developer & 3D Web Experience Creator
 
-<<<<<<< HEAD
 <div align="center">
   <img src="profile_image.jpg" alt="Stephen" width="120" style="border-radius: 60px"/>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 </div>
-=======
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stephenmerickson)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nosk.s89@gmail.com)
->>>>>>> 463d7db189fa279ae5576ec8a44ab9102907e32e
 
 ## Creative Technologist | Environmental Advocate | Innovation Driver
 
