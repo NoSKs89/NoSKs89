@@ -13,7 +13,7 @@ I craft immersive digital experiences that blend cutting-edge technology with me
 ## 🎯 Featured Projects
 
 ### 🏰 Wedding WriteBack - Enterprise-Grade Wedding Platform
-[![Wedding WriteBack Preview](./wedding-writeback-preview.png)](https://weddingwriteback.com)
+[![Wedding WriteBack Preview](./screenshots/wedding-writeback-preview.gif)](https://weddingwriteback.com)
 
 **Full-Stack Application** | **React 18** | **AWS Cloud** | **MongoDB** | **TypeScript**
 
@@ -35,7 +35,7 @@ A sophisticated wedding planning platform featuring:
 ```
 
 ### 🎵 GrooveWash - 3D Audio-Visual Record Cleaning Experience
-[![GrooveWash Preview](./groovewash-preview.png)](https://groovewash.com)
+[![GrooveWash Preview](./screenshots/groovewash-preview.gif)](https://groovewash.com)
 
 **Interactive Business Website** | **React 19** | **Three.js** | **Web Audio API** | **Material-UI**
 
@@ -61,7 +61,7 @@ const frequencyData = useMemo(() =>
 ```
 
 ### 🌌 Warm & Software - Interactive 3D Art & Poetry Portfolio
-[![Warm & Software Preview](./warmandsoftware-preview.png)](https://warmandsoftware.com)
+[![Warm & Software Preview](./screenshots/warmandsoftware-preview.gif)](https://warmandsoftware.com)
 
 **Immersive 3D Portfolio** | **React Three Fiber** | **React Spring** | **Custom Shaders** | **TypeScript**
 
@@ -88,7 +88,7 @@ const curve = useMemo(() => {
 ```
 
 ### ✝️ WWJD2025 - Social Impact Interactive Timeline
-[![WWJD2025 Preview](./wwjd2025-preview.png)](https://wwjd2025.com)
+[![WWJD2025 Preview](./screenshots/wwjd2025-preview.gif)](https://wwjd2025.com)
 
 **Educational Platform** | **React 19** | **Three.js** | **Material-UI** | **Social Commentary**
 
