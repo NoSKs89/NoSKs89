@@ -13,7 +13,7 @@ I craft immersive digital experiences that blend cutting-edge technology with me
 ## 🎯 Featured Projects
 
 ### 🏰 Wedding WriteBack - Enterprise-Grade Wedding Platform
-[![Wedding WriteBack Preview](./wedding-writeback-preview.png)](https://weddingwriteback.com)
+[![Wedding WriteBack Preview](./wedding-writeback-preview.gif)](https://weddingwriteback.com)
 
 **Full-Stack Application** | **React 18** | **AWS Cloud** | **MongoDB** | **TypeScript**
 
