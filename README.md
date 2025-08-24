@@ -1,18 +1,24 @@
-# 👨‍💻 Stephen | Full-Stack Developer & 3D Web Experience Creator
+# Stephen | Full-Stack Developer & 3D Web Experience Creator
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<div align="center">
+  <img src="profile_image.jpg" alt="Stephen" width="120" style="border-radius: 60px"/>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+</div>
 
-## 🌟 Creative Technologist | Environmental Advocate | Innovation Driver
+## Creative Technologist | Environmental Advocate | Innovation Driver
 
 I craft immersive digital experiences that blend cutting-edge technology with meaningful storytelling. My work spans interactive 3D environments, full-stack applications, and socially conscious platforms that challenge perspectives and inspire action.
 
 ---
 
-## 🎯 Featured Projects
 
-### 🎵 GrooveWash - 3D Audio-Visual Record Cleaning Experience
+## Featured Projects
+
+<br/>
+
+### GrooveWash - 3D Audio-Visual Record Cleaning Experience
 [![GrooveWash Preview](./screenshots/groovewash-preview.gif)](https://groovewash.com)
 
 **Interactive Business Website** | **React 19** | **Three.js** | **Web Audio API** | **Material-UI**
@@ -38,7 +44,8 @@ const frequencyData = useMemo(() =>
 </Canvas>
 ```
 
-### 🏰 Wedding WriteBack - Enterprise-Grade Wedding Platform
+
+### Wedding WriteBack - Enterprise-Grade Wedding Platform
 [![Wedding WriteBack Preview](./screenshots/wedding-writeback-preview.gif)](https://weddingwriteback.com)
 
 **Full-Stack Application** | **React 18** | **AWS Cloud** | **MongoDB** | **TypeScript**
@@ -60,7 +67,7 @@ A sophisticated wedding planning platform featuring:
           <Draggable key={element.id} draggableId={element.id} index={index}>
 ```
 
-### 🌌 Warm & Software - Interactive 3D Art & Poetry Portfolio
+### Warm & Software - Interactive 3D Art & Poetry Portfolio
 [![Warm & Software Preview](./screenshots/warmandsoftware-preview.gif)](https://warmandsoftware.com)
 
 **Immersive 3D Portfolio** | **React Three Fiber** | **React Spring** | **Custom Shaders** | **TypeScript**
@@ -87,7 +94,7 @@ const curve = useMemo(() => {
 }, []);
 ```
 
-### ✝️ WWJD2025 - Social Impact Interactive Timeline
+### WWJD2025 - Social Impact Interactive Timeline
 [![WWJD2025 Preview](./screenshots/wwjd2025-preview.gif)](https://wwjd2025.com)
 
 **Educational Platform** | **React 19** | **Three.js** | **Material-UI** | **Social Commentary**
@@ -112,7 +119,7 @@ const sourceIconMap = {
 
 ---
 
-## 🌍 Environmental Consciousness & Clean Technology
+## Environmental Consciousness & Clean Technology
 
 > "There is more than one story. There is more than one narrative. There is more than one protagonist... There is only one earth to which all belong."
 
@@ -125,7 +132,7 @@ Inspired by the interconnectedness of all things, I advocate for technology that
 
 ---
 
-## 🛠️ Technology Stack & Expertise
+## Technology Stack & Expertise
 
 ### **Frontend Excellence**
 | Category | Technologies |
@@ -154,7 +161,7 @@ Inspired by the interconnectedness of all things, I advocate for technology that
 
 ---
 
-## 🎨 Design & Creative Skills
+## Design & Creative Skills
 
 - **3D Modeling & Animation** - Blender, procedural generation
 - **Graphic Design** - Adobe Creative Suite, Figma
@@ -164,7 +171,7 @@ Inspired by the interconnectedness of all things, I advocate for technology that
 
 ---
 
-## 📊 Professional Approach
+## Professional Approach
 
 ### **Development Philosophy**
 - **Performance-First** - Optimized loading, smooth interactions, efficient rendering
@@ -182,7 +189,7 @@ Inspired by the interconnectedness of all things, I advocate for technology that
 
 ---
 
-## 🌟 Key Achievements
+## Key Achievements
 
 - **Enterprise-Grade Architecture** - Built scalable systems serving thousands of users
 - **3D Web Innovation** - Pushed boundaries of browser-based 3D experiences
@@ -192,18 +199,18 @@ Inspired by the interconnectedness of all things, I advocate for technology that
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 I'm always excited to collaborate on innovative projects that make a positive impact. Whether you're looking for a full-stack developer, 3D experience creator, or technology consultant, I'd love to hear about your vision.
 
-**🔗 Connect with me:**
+**Connect with me:**
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 - **Portfolio**: [Your Personal Website](https://yourportfolio.com)
 - **Email**: your.email@example.com
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 Currently exploring:
 - **AI Integration** - Machine learning applications in creative coding
