@@ -16,7 +16,7 @@ I craft immersive digital experiences that blend cutting-edge technology with me
 
 <br/>
 
-## Featured Projects
+## Featured Projects (give preview gifs a moment to load)
 
 ### GrooveWash - 3D Audio-Visual Record Cleaning Experience
 [![GrooveWash Preview](./screenshots/groovewash-preview.gif)](https://groovewash.com)
