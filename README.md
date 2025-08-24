@@ -12,28 +12,6 @@ I craft immersive digital experiences that blend cutting-edge technology with me
 
 ## 🎯 Featured Projects
 
-### 🏰 Wedding WriteBack - Enterprise-Grade Wedding Platform
-[![Wedding WriteBack Preview](./screenshots/wedding-writeback-preview.gif)](https://weddingwriteback.com)
-
-**Full-Stack Application** | **React 18** | **AWS Cloud** | **MongoDB** | **TypeScript**
-
-A sophisticated wedding planning platform featuring:
-- **Drag-and-Drop Visual Editor** - Intuitive interface for creating personalized wedding experiences
-- **3D Interactive Elements** - Immersive parallax effects and dynamic animations
-- **Real-Time Collaboration** - Guest management with RSVP tracking and photo sharing
-- **Enterprise Security** - AWS Lambda, API Gateway, and comprehensive authentication
-- **Mobile-First Design** - Responsive layouts optimized for all devices
-
-```12:15:wedding-write-back/src/components/ExperienceSetupPage/ElementSlot.tsx
-// Advanced drag-and-drop system with real-time preview
-<DragDropContext onDragEnd={handleDragEnd}>
-  <Droppable droppableId="editor-canvas">
-    {(provided) => (
-      <div ref={provided.innerRef} {...provided.droppableProps}>
-        {elements.map((element, index) => (
-          <Draggable key={element.id} draggableId={element.id} index={index}>
-```
-
 ### 🎵 GrooveWash - 3D Audio-Visual Record Cleaning Experience
 [![GrooveWash Preview](./screenshots/groovewash-preview.gif)](https://groovewash.com)
 
@@ -58,6 +36,28 @@ const frequencyData = useMemo(() =>
   <Record3D frequencyData={frequencyData} />
   <ParticleSystem />
 </Canvas>
+```
+
+### 🏰 Wedding WriteBack - Enterprise-Grade Wedding Platform
+[![Wedding WriteBack Preview](./screenshots/wedding-writeback-preview.gif)](https://weddingwriteback.com)
+
+**Full-Stack Application** | **React 18** | **AWS Cloud** | **MongoDB** | **TypeScript**
+
+A sophisticated wedding planning platform featuring:
+- **Drag-and-Drop Visual Editor** - Intuitive interface for creating personalized wedding experiences
+- **3D Interactive Elements** - Immersive parallax effects and dynamic animations
+- **Real-Time Collaboration** - Guest management with RSVP tracking and photo sharing
+- **Enterprise Security** - AWS Lambda, API Gateway, and comprehensive authentication
+- **Mobile-First Design** - Responsive layouts optimized for all devices
+
+```12:15:wedding-write-back/src/components/ExperienceSetupPage/ElementSlot.tsx
+// Advanced drag-and-drop system with real-time preview
+<DragDropContext onDragEnd={handleDragEnd}>
+  <Droppable droppableId="editor-canvas">
+    {(provided) => (
+      <div ref={provided.innerRef} {...provided.droppableProps}>
+        {elements.map((element, index) => (
+          <Draggable key={element.id} draggableId={element.id} index={index}>
 ```
 
 ### 🌌 Warm & Software - Interactive 3D Art & Poetry Portfolio
