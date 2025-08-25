@@ -193,7 +193,7 @@ Inspired by the interconnectedness of all things, I advocate for technology that
 I'm always excited to collaborate on innovative projects that make a positive impact. Whether you're looking for a full-stack developer, 3D experience creator, or technology consultant, I'd love to hear about your vision.
 
 **Connect with me:**
-- **LinkedIn**: [LinkedInd](https://linkedin.com/in/stephenmerickson)
+- **LinkedIn**: [LinkedIn](https://linkedin.com/in/stephenmerickson)
 - **Portfolio**: [Personal Website](https://www.warmandsoftware.com)
 - **Email**: nosk.s89@gmail.com
 
