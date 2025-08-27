@@ -138,16 +138,7 @@ A thought-provoking examination of policy through faith:
 - **Print Resources** - Downloadable awareness materials and graphics
 - **Responsive Design** - Optimized for education and discussion
 
-```66:75:wwjd2025/src/App.js
-// Comprehensive source mapping for policy verification
-const sourceIconMap = {
-  "New York Times": NYT,
-  "The Guardian": TheGuardian,
-  "Washington Post": WashingtonPost,
-  "EPA": EPA,
-  // ... 40+ verified sources
-};
-```
+
 
 ---
 
@@ -195,12 +186,10 @@ Inspired by the interconnectedness of all things, I advocate for technology that
 
 ## Design & Creative Skills
 
-- **3D Modeling & Animation** - Blender, procedural generation
 - **Graphic Design** - Adobe Creative Suite, Figma
 - **User Experience** - Research, prototyping, accessibility
 - **Visual Effects** - Post-processing, particle systems, shaders
-- **Typography** - Custom fonts, responsive text systems
-
+  
 ---
 
 ## Professional Approach
@@ -236,9 +225,9 @@ Inspired by the interconnectedness of all things, I advocate for technology that
 I'm always excited to collaborate on innovative projects that make a positive impact. Whether you're looking for a full-stack developer, 3D experience creator, or technology consultant, I'd love to hear about your vision.
 
 **Connect with me:**
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [Your Personal Website](https://yourportfolio.com)
-- **Email**: your.email@example.com
+- **LinkedIn**: [LinkedIn](https://linkedin.com/in/stephenmerickson)
+- **Portfolio**: [Personal Website](https://www.warmandsoftware.com)
+- **Email**: nosk.s89@gmail.com
 
 ---
 
