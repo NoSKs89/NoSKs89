@@ -57,6 +57,38 @@ A sophisticated wedding planning platform featuring:
 - **Enterprise Security** - AWS Lambda, API Gateway, and comprehensive authentication
 - **Mobile-First Design** - Responsive layouts optimized for all devices
 
+<div align="center">
+  <h4>Platform Features (Click to expand)</h4>
+  <table>
+    <tr>
+      <td width="25%">
+        <a href="screenshots/weddingwritebackpreview/mobile-setup-preview.png">
+          <img src="screenshots/weddingwritebackpreview/mobile-setup-preview.png" width="100%" alt="Mobile Setup Interface">
+          <p align="center"><strong>Mobile Setup</strong></p>
+        </a>
+      </td>
+      <td width="25%">
+        <a href="screenshots/weddingwritebackpreview/navbar-preview.png">
+          <img src="screenshots/weddingwritebackpreview/navbar-preview.png" width="100%" alt="Navigation Experience">
+          <p align="center"><strong>Smart Navigation</strong></p>
+        </a>
+      </td>
+      <td width="25%">
+        <a href="screenshots/weddingwritebackpreview/rsvp-preview.png">
+          <img src="screenshots/weddingwritebackpreview/rsvp-preview.png" width="100%" alt="RSVP Management">
+          <p align="center"><strong>RSVP System</strong></p>
+        </a>
+      </td>
+      <td width="25%">
+        <a href="screenshots/weddingwritebackpreview/share-gallery-preview.png">
+          <img src="screenshots/weddingwritebackpreview/share-gallery-preview.png" width="100%" alt="Photo Sharing Gallery">
+          <p align="center"><strong>Photo Sharing</strong></p>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ```12:15:wedding-write-back/src/components/ExperienceSetupPage/ElementSlot.tsx
 // Advanced drag-and-drop system with real-time preview
 <DragDropContext onDragEnd={handleDragEnd}>
