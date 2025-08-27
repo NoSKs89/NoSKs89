@@ -11,12 +11,16 @@
 
 I craft immersive digital experiences that blend cutting-edge technology with meaningful storytelling. My work spans interactive 3D environments, full-stack applications, and socially conscious platforms that challenge perspectives and inspire action.
 
+<br/>
+
+The below is an example of my SOLO WORKS, ie. projects I've worked on outside of my full-time, full stack job. Skills used there will be included at the end. ✌️
+
 ---
 
 
 <br/>
 
-## Featured Projects (give preview gifs a moment to load)
+## Featured Projects (⏳ give preview gifs a moment to load ⌛)
 
 ### GrooveWash - 3D Audio-Visual Record Cleaning Experience
 [![GrooveWash Preview](./screenshots/groovewash-preview.gif)](https://groovewash.com)
@@ -160,8 +164,9 @@ Inspired by the interconnectedness of all things, I advocate for technology that
 ### **Frontend Excellence**
 | Category | Technologies |
 |----------|-------------|
-| **Core** | React 18/19, TypeScript, Next.js |
-| **3D Graphics** | Three.js, React Three Fiber, WebGL, GLSL Shaders |
+| **Core Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3 |
+| **Frameworks** | React 18/19, Next.js, ASP.NET |
+| **3D & Graphics** | Three.js, React Three Fiber, WebGL, GLSL Shaders |
 | **Animation** | React Spring, Framer Motion, GSAP, CSS3 Animations |
 | **UI/UX** | Material-UI, Ant Design, Styled Components, Tailwind CSS |
 | **State Management** | Zustand, Valtio, Redux Toolkit, Context API |
@@ -169,18 +174,22 @@ Inspired by the interconnectedness of all things, I advocate for technology that
 ### **Backend & Cloud**
 | Category | Technologies |
 |----------|-------------|
-| **Runtime** | Node.js, Express.js, Serverless Functions |
-| **Database** | MongoDB, PostgreSQL, AWS DynamoDB |
-| **Cloud** | AWS (Lambda, S3, SES, CloudWatch), Vercel, Netlify |
-| **Security** | JWT, bcrypt, CORS, Input Validation |
+| **Core Languages** | C#, Java, Node.js |
+| **Frameworks** | ASP.NET, Express.js, Serverless Functions |
+| **Database** | TSQL, MySQL, MongoDB, PostgreSQL, AWS DynamoDB |
+| **Cloud Platforms** | AWS (Lambda, S3, SES, CloudWatch), Azure (Logic Apps, App Services, Function Apps) |
+| **API Development** | RESTful APIs, GraphQL, CORS, JWT |
+| **Security** | OAuth, bcrypt, Input Validation, SSL/TLS |
 
-### **Development Tools**
-| Category | Technologies |
+### **Development Tools & Practices**
+| Category | Technologies & Methodologies |
 |----------|-------------|
-| **Build** | Webpack, Vite, Create React App |
+| **Version Control** | Git, GitHub, GitLab |
+| **CI/CD** | Jenkins, GitHub Actions, Azure DevOps |
+| **Build & Deploy** | Webpack, Vite, Docker |
 | **Testing** | Jest, React Testing Library, Cypress |
-| **Code Quality** | ESLint, Prettier, TypeScript |
-| **DevOps** | Git, GitHub Actions, Docker |
+| **Code Quality** | ESLint, Prettier, SonarQube |
+| **Methodologies** | Agile, Scrum, CI/CD, TDD |
 
 ---
 
